@@ -1,1 +1,1 @@
-Program Menghitung Sederhan Data Statistik Mean, Median, Modus
+Program Menghitung Sederhana (Mean, Median, Modus)
