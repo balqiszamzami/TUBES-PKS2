@@ -1,1 +1,1 @@
-# TUBES-PKS2
+Program Menghitung Sederhan Data Statistik Mean, Median, Modus
